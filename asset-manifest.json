@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Salama-Malek/Valantis_Test/static/css/main.bf0b9ddc.css",
+    "main.js": "/Salama-Malek/Valantis_Test/static/js/main.3ed39294.js",
+    "static/js/453.8b48f5bb.chunk.js": "/Salama-Malek/Valantis_Test/static/js/453.8b48f5bb.chunk.js",
+    "index.html": "/Salama-Malek/Valantis_Test/index.html",
+    "main.bf0b9ddc.css.map": "/Salama-Malek/Valantis_Test/static/css/main.bf0b9ddc.css.map",
+    "main.3ed39294.js.map": "/Salama-Malek/Valantis_Test/static/js/main.3ed39294.js.map",
+    "453.8b48f5bb.chunk.js.map": "/Salama-Malek/Valantis_Test/static/js/453.8b48f5bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf0b9ddc.css",
+    "static/js/main.3ed39294.js"
+  ]
+}
