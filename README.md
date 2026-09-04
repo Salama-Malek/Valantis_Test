@@ -57,3 +57,7 @@ Valantis_Test/
 ├── package.json
 └── README.md
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
